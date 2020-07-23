@@ -7,3 +7,5 @@ end
 def breed=name
   @name
 end 
+
+end
