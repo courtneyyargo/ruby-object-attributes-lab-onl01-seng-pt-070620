@@ -1,9 +1,9 @@
 class Dog 
 
-def breed 
+def breed(name) 
   
 end 
 
-def breed=
+def breed=name
   
 end 
