@@ -2,4 +2,6 @@ def breed
   
 end 
 
-def 
+def breed=
+  
+end 
