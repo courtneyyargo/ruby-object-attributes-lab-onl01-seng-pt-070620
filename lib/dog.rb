@@ -5,5 +5,5 @@ def breed(name)
 end 
 
 def breed=name
-  
+  @name
 end 
